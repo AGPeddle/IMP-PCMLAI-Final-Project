@@ -10,7 +10,7 @@
 
 ## Performance
 
-Give a summary graph or metrics of how the model performs. Remember to include how you are measuring the performance and what data you analysed it on. 
+The model has a RMSE error of 0.2% when compared to test data. 80% of the data were used to train the model with 20% used for testing.
 
 ## Limitations
 
